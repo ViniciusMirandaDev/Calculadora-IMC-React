@@ -22,6 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Clone o repositório
 - Instale as dependências com `yarn install`
-- Inicie o servidor com `yarn stary`
+- Inicie o servidor com `yarn start`
 
 Feito por [Vinícius Miranda Dev](https://www.linkedin.com/in/viniciusmirandadev/) e [Escola B7WEB](https://b7web.com.br/fullstack/?ref=I24108426I&gclid=CjwKCAjw8sCRBhA6EiwA6_IF4d_ueO2Lw4eLYaD8PnfEdn1Q-NOTayRu7RK3narNb78SyvG3wSNHbhoC5HMQAvD_BwE)  
